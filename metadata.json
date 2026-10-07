@@ -1,0 +1,6 @@
+{
+  "name": "Mini Apps UI",
+  "description": "Mini Apps, menús y catálogos digitales, QR, pedidos por WhatsApp, promociones y herramientas digitales personalizadas para comercios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
